@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819465167537",
+    "firebase_url": "https://tiosan-9573d.firebaseio.com",
+    "project_id": "tiosan-9573d",
+    "storage_bucket": "tiosan-9573d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819465167537:android:1ccd013e3a74c8547e7890",
+        "android_client_info": {
+          "package_name": "com.example.tiosam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819465167537-urn851hurld6tt0gqqti160j0mhr4r25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiosam",
+            "certificate_hash": "6c264da9aadb024b928e8f9db9e8621f0e324b96"
+          }
+        },
+        {
+          "client_id": "819465167537-hv6hakvr3kiigp7qhrc2edus2l7h35l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JRduAFKT216BptS0-UHs6ZlRLG6fSwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819465167537-hv6hakvr3kiigp7qhrc2edus2l7h35l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
